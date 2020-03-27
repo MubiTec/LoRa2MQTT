@@ -4,8 +4,8 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
 
-const char* ssid = "FRITZ!Box Fon WLAN 7240";
-const char* password = "8511348781301210";
+const char* ssid = "xxx";
+const char* password = "xxx";
 const char* mqtt_server = "192.168.178.71";
 
 /* create an instance of PubSubClient client */
